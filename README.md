@@ -2,7 +2,7 @@
 for my css despising friends 💖
 
 
-###Installs
+### Installs
 
 ```bash
 $ git clone git@github.com:kaci-wooldridge/basic-template.git
