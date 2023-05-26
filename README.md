@@ -9,7 +9,7 @@ $ git clone git@github.com:kaci-wooldridge/basic-template.git
 $ cd basic-template
 $ npm install reactstrap react react-dom
 $ npm install --save bootstrap
-$ npm i @fortawesome/react-fontawesome
+$ npm i @fortawesome/react-fontawesome - (https://fontawesome.com/search?o=r&m=free)
 
 ```
 
