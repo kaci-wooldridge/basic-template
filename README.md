@@ -1,6 +1,8 @@
 # ✨Basic Template For Your Next Project!✨
 for my css despising friends 💖
 
+![Alt Text](https://github.com/kaci-wooldridge/basic-template/blob/main/homepage1.png?raw=true)
+
 
 ### Installs
 
