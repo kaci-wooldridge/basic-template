@@ -1,6 +1,20 @@
+import '../styles/home.css';
+
 export default function Home(){
     return(
-        <>
-        </>
+        <div className="home-container">
+
+            <div className="home-welcome">
+                Welcome
+            </div>
+
+            <div className="home-content">
+            “I'm dishonest, and a dishonest man you can always trust to be dishonest. 
+            Honestly, it's the honest ones you want to watch out for, because you 
+            can never predict when they're going to do something incredibly stupid.”
+            <div className="new-line">-Jack Sparrow</div>
+            </div>
+
+        </div>
     )
 }
