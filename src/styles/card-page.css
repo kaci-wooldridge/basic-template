@@ -1,0 +1,22 @@
+.card-page-container{
+    display: flex;
+    justify-content: space-evenly;
+
+    margin-top: 80px;
+}
+
+.card-container{
+    display: flex;
+    height: 450px;
+}
+
+.card-body{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-text{
+    text-align: center;
+}

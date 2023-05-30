@@ -13,3 +13,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  min-height: calc(100vh - 20px);
+}
+
+.new-line {
+  white-space: pre-line;
+}

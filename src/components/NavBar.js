@@ -48,6 +48,12 @@ export default function NavBar() {
               </NavLink>
             </NavItem>
 
+            <NavItem className="nav-item">
+              <NavLink href="/cardpage/">
+                Card Page
+              </NavLink>
+            </NavItem>
+
           </Nav>
         </Collapse>
       </Navbar>

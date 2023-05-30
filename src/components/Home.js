@@ -2,7 +2,7 @@ import '../styles/home.css';
 
 export default function Home(){
     return(
-        <div className="home-container">
+        <div className="container home-container">
 
             <div className="home-welcome">
                 Welcome
