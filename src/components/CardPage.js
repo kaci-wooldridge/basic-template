@@ -35,7 +35,6 @@ export default function CardPage() {
                 </Col>
 
                 <Col className="fluid card-container" xs="4">
-
                     <Card className="img-fluid border-2  card" style={{ height: '100%' }}>
                         <img src="https://picsum.photos/300/200" className="card-img" />
                         <div className="card-body">
@@ -91,8 +90,8 @@ export default function CardPage() {
                             </CardBody>
                         </div>
                     </Card>
-
                 </Col>
+                
             </Row>
         </div >
     )

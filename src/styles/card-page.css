@@ -3,6 +3,8 @@
     justify-content: space-evenly;
 
     margin-top: 80px;
+
+    font-family: 'Poppins';
 }
 
 .card-row{
@@ -17,5 +19,5 @@
 
 .card-text{
     text-align: center;
-    padding-bottom: 10px;
+    padding: 10px 0 10px 0;
 }
