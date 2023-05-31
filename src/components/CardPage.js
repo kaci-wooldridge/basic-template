@@ -91,7 +91,7 @@ export default function CardPage() {
                         </div>
                     </Card>
                 </Col>
-                
+
             </Row>
         </div >
     )
