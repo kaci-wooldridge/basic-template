@@ -5,13 +5,11 @@
     margin-top: 80px;
 }
 
-.card-container{
-    display: flex;
-    height: 450px;
+.card-row{
+    max-height: 350px;
 }
 
 .card-body{
-    margin-top: 5px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -19,4 +17,5 @@
 
 .card-text{
     text-align: center;
+    padding-bottom: 10px;
 }
